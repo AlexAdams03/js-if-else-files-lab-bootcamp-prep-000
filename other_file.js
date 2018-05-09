@@ -1,2 +1,2 @@
 var index =
-requre("./index.js")
+require("./index.js")
